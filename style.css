@@ -18,6 +18,10 @@ body {
     width: 350px;
     margin-top: 20px;
     margin-bottom: 20px;
+    text-align:center;
+    color: #7C1935;
+    font-size: 40px;
+    font-family: 'Great Vibes', cursive;
 }
 
 .img2{
