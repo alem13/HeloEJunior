@@ -7,13 +7,23 @@ body {
     background-position: center;
 }
 
-img{
+.img1{
    background-color: aqua; 
-   width: 200px;
-   padding: 200px;
+   width: 300px;
+   padding: 300px;
    padding: 0;
 }
 
+.img2{
+    background-color: aqua; 
+    width: 200px;
+    padding: 200px;
+    padding: 0;
+ }
+
+.rounded-image {
+    border-radius: 50%;
+}
 .vertical-center {
     display: flex;
     flex-direction: column;
