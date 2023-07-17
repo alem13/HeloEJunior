@@ -39,6 +39,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 15px;
   }
 
 .title{
@@ -53,6 +54,8 @@ body {
     font-size: 30px;
     color: #7C1935;
     font-family: 'Great Vibes', cursive;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 #container{
